@@ -3,7 +3,8 @@ title: "Claude Code の「1.ラーメン」を物理ボタンで殴る"
 emoji: "🎛️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [claudecode, streamdeck, python]
-published: false
+published: true
+publication_name: "smartcamp"
 ---
 
 :::message
